@@ -8,7 +8,7 @@ We do not consider this a small concern. We consider it the only one that matter
 
 ## What we mean by entropy
 
-Every system tends, left to itself, toward disorder. Heat spreads, order dissipates, the arrow of time points one way and does not waver. This is usually told as a tragedy — the slow running-down of all things. We find that framing unimaginative. Disorder is not decay; it is *availability*. It is the vast, warm field of the possible out of which every particular, fragile, beautiful arrangement is briefly drawn. A perfectly ordered system can do nothing at all. It is the gradient — the difference, the gentle slide from more order to less — that lets anything happen.
+Every system tends, left to itself, toward disorder. Heat spreads, order dissipates, the arrow of time points one way and does not waver. This is usually told as a tragedy — the slow running-down of all things. We find that framing unimaginative. Disorder is not decay; it is _availability_. It is the vast, warm field of the possible out of which every particular, fragile, beautiful arrangement is briefly drawn. A perfectly ordered system can do nothing at all. It is the gradient — the difference, the gentle slide from more order to less — that lets anything happen.
 
 Entropic Vestibule positions itself precisely on that gradient. Not to halt it, which is neither possible nor desirable, but to host it. To furnish the threshold across which order becomes possibility, and to make the crossing hospitable to those prepared to make it.
 
